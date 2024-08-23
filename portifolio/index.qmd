@@ -1,0 +1,26 @@
+---
+title: "Portfólio"
+lang: pt-BR
+listing:
+  - id: posts
+    contents: posts
+    sort: 
+      - "date desc"
+      - "title asc"
+    categories: true
+    sort-ui: [date]
+    filter-ui: [title, date]
+    feed: true
+    type: default
+    page-size: 7
+    image-align: left
+    date-format: "DD MMMM YYYY"
+    fields: [title, subtitle, author, description, date, image, reading-time, categories]
+format:
+  html:
+    page-layout: full
+website:
+  back-to-top-navigation: true
+---
+
+Aqui, você encontrará exemplos que refletem minha experiência, habilidades e dedicação em cada projeto. Estou sempre em busca de novos desafios e oportunidades para expandir meu conhecimento e contribuir de forma significativa. Sinta-se à vontade para explorar e conhecer mais sobre o meu trabalho e trajetória profissional.

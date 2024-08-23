@@ -1,0 +1,24 @@
+---
+title: "Previsão Salarial Brasileira"
+lang: pt-BR
+subtitle: "Forecast Brazilian Salary API Documentation"
+description: "A Forecast Brazilian Salary API é uma ferramenta poderosa que permite aos usuários prever salários com base em vários fatores e parâmetros. Esta documentação fornece um guia abrangente sobre como usar a API de forma eficaz."
+author: "Bruno Mesquita"
+date: "2023-06-25"
+categories: [API REST, Previsão, FastAPI, XGBoost, Python]
+image: ../images/forecast_salary.jpeg
+---
+
+--
+
+Esta documentação é proveniente do meu repositório no GitHub e, devido ao vínculo dinâmico, pode apresentar falhas ou dificuldades de carregamento. Para garantir que você tenha uma navegação melhor, recomendo que visite diretamente o projeto e a documentação oficial. Para isso, basta clicar no botão abaixo, que o levará ao repositório GitHub, onde você encontrará todas as instruções detalhadas, exemplos de uso e outros recursos úteis.
+
+<button onclick="location.href='https://github.com/BrunoMesquitaa/forecast_salary'" type="button" class="btn btn-secondary">GitHub</button>
+
+---
+
+Iframe da Documentação:
+```{=html}
+<iframe width="100%" height="5000" src="https://brunomesquitaa.github.io/forecast_salary/"></iframe>
+
+```

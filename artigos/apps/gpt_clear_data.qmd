@@ -1,0 +1,10 @@
+---
+title: "Transforme seus Dados com GPT: Dicas e Truques"
+image: ../images/ia.png
+description: "Enfrentando dificuldades na limpeza e enriquecimento de dados?  Descubra por que ainda não é viável confiar totalmente GPT. "
+author: "Bruno Mesquita"
+date: "2024-07-13"
+categories: [GPT, Limpeza de Dados, IA]
+---
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7218071427827044352" height="900px" width="75%" frameborder="0" allowfullscreen="" title="Publicação incorporada"></iframe>
