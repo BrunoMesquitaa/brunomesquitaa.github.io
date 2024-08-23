@@ -95,7 +95,7 @@ CTFL Foundation Level | BSTQB - Código da credencial 19-CTFL-09388-BR
 
   O Programa de Educação Tutorial (PET) foi criado para apoiar atividades acadêmicas que integram ensino, pesquisa e extensão. O PET tem como objetivo promover a formação ampla e de qualidade dos alunos de graduação envolvidos direta ou indiretamente com o Programa, estimulando valores que reforcem a cidadania e a consciência social dos participantes e a melhoria dos Cursos de Graduação.
 
-- Vem Pra UFO:
+- Vem Pra UFU:
 
   É um projeto realizado em todos os campi da Universidade Federal de Uberlândia (UFU) e tem como objetivo apresentar para a comunidade externa os cursos oferecidos pela instituição. Tive como objetivo interagir, explicar e incentivar alunos do ensino médio a cursarem Estatística.
 
