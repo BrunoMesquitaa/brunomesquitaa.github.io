@@ -1,6 +1,6 @@
 ---
 title: "Transforme seus Dados com GPT: Dicas e Truques"
-image: ../images/ia.png
+image: ../banner/ia.png
 description: "Enfrentando dificuldades na limpeza e enriquecimento de dados?  Descubra por que ainda não é viável confiar totalmente GPT. "
 author: "Bruno Mesquita"
 date: "2024-07-13"
