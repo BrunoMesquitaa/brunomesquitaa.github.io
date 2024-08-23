@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>BMS</title>
+<link>brunomesquitaa.github.io/portifolio/</link>
+<atom:link href="brunomesquitaa.github.io/portifolio/index.xml" rel="self" type="application/rss+xml"/>
+<description>Portfólio!</description>
+<image>
+<url>brunomesquitaa.github.io/images/profile.jpg</url>
+<title>BMS</title>
+<link>brunomesquitaa.github.io/portifolio/</link>
+</image>
+<generator>quarto-1.5.56</generator>
+<lastBuildDate>Sun, 25 Jun 2023 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Previsão Salarial Brasileira</title>
+  <dc:creator>Bruno Mesquita</dc:creator>
+  <link>brunomesquitaa.github.io/portifolio/posts/2_forecast_salary.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>–</p>
+<p>Esta documentação é proveniente do meu repositório no GitHub e, devido ao vínculo dinâmico, pode apresentar falhas ou dificuldades de carregamento. Para garantir que você tenha uma navegação melhor, recomendo que visite diretamente o projeto e a documentação oficial. Para isso, basta clicar no botão abaixo, que o levará ao repositório GitHub, onde você encontrará todas as instruções detalhadas, exemplos de uso e outros recursos úteis.</p>
+<button onclick="location.href='https://github.com/BrunoMesquitaa/forecast_salary'" type="button" class="btn btn-secondary">
+GitHub
+</button>
+<hr>
+<p>Iframe da Documentação:</p>
+<iframe width="100%" height="5000" src="https://brunomesquitaa.github.io/forecast_salary/"></iframe>
+
+
+
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> De volta ao topo</a> ]]></description>
+  <category>API REST</category>
+  <category>Previsão</category>
+  <category>FastAPI</category>
+  <category>XGBoost</category>
+  <category>Python</category>
+  <guid>brunomesquitaa.github.io/portifolio/posts/2_forecast_salary.html</guid>
+  <pubDate>Sun, 25 Jun 2023 00:00:00 GMT</pubDate>
+  <media:content url="brunomesquitaa.github.io/portifolio/images/forecast_salary.jpeg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Compactação Simples de arquivo da AWS S3</title>
+  <dc:creator>Bruno Mesquita</dc:creator>
+  <link>brunomesquitaa.github.io/portifolio/posts/3_s3_simple_compress.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<hr>
+<p>Este projeto envolve o desenvolvimento de um pacote Python que criei para facilitar a compactação de arquivo do S3 em memória. O pacote foi projetado para ser intuitivo e eficiente.</p>
+<p>Abaixo, você encontrará os links para acessar o repositório no GitHub, onde está disponível o código-fonte completo, bem como a documentação oficial, que fornece instruções detalhadas sobre como instalar, configurar e utilizar o pacote. Além disso, incluímos o link para a página do pacote no PyPI, onde você pode facilmente baixar e instalar a versão mais recente do pacote usando o gerenciador de pacotes pip. Recomendamos que consulte esses recursos para obter uma compreensão completa de como o pacote funciona e como ele pode beneficiar seus projetos.</p>
+<button onclick="location.href='https://github.com/BrunoMesquitaa/s3_simple_compress'" type="button" class="btn btn-secondary">
+GitHub
+</button>
+<button onclick="location.href='https://s3-simple-compress.readthedocs.io/en/latest/?badge=latest'" type="button" class="btn btn-secondary">
+Documetação
+</button>
+<button onclick="location.href='https://pypi.org/project/s3-simple-compress/'" type="button" class="btn btn-secondary">
+PyPI
+</button>
+<hr>
+<p>Iframe da Documentação:</p>
+<iframe width="100%" height="700" src="https://s3-simple-compress.readthedocs.io/en/latest/?badge=latest"></iframe>
+
+
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> De volta ao topo</a> ]]></description>
+  <category>S3</category>
+  <category>AWS</category>
+  <category>Python Package Index</category>
+  <category>Python</category>
+  <category>ZIP</category>
+  <guid>brunomesquitaa.github.io/portifolio/posts/3_s3_simple_compress.html</guid>
+  <pubDate>Wed, 03 May 2023 00:00:00 GMT</pubDate>
+  <media:content url="brunomesquitaa.github.io/portifolio/images/s3_simple_compress.jpeg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>API Distância do Transporte público</title>
+  <dc:creator>Bruno Mesquita</dc:creator>
+  <link>brunomesquitaa.github.io/portifolio/posts/1_api_distance_public_transportation.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<hr>
+<p>Esta documentação é proveniente do meu repositório no GitHub e, devido ao vínculo dinâmico, pode apresentar falhas ou dificuldades de carregamento. Para garantir que você tenha uma navegação melhor, recomendo que visite diretamente o projeto e a documentação oficial. Para isso, basta clicar no botão abaixo, que o levará ao repositório GitHub, onde você encontrará todas as instruções detalhadas, exemplos de uso e outros recursos úteis.</p>
+<button onclick="location.href='https://github.com/BrunoMesquitaa/api_distance_public_transportation'" type="button" class="btn btn-secondary">
+GitHub
+</button>
+<hr>
+<p>Iframe da Documentação:</p>
+<iframe width="100%" height="3750" src="https://brunomesquitaa.github.io/api_distance_public_transportation/"></iframe>
+
+
+
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> De volta ao topo</a> ]]></description>
+  <category>API REST</category>
+  <category>Geopandas</category>
+  <category>FastAPI</category>
+  <category>Python</category>
+  <guid>brunomesquitaa.github.io/portifolio/posts/1_api_distance_public_transportation.html</guid>
+  <pubDate>Mon, 01 May 2023 00:00:00 GMT</pubDate>
+  <media:content url="brunomesquitaa.github.io/portifolio/images/api_distance_public_transportation.jpeg" medium="image" type="image/jpeg"/>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Bruno Mesquita",
+    "section": "",
+    "text": "Um estudante de estatística e entusiasta de dados!.\nLeia mais sobre mim aqui.\n\n \n  \n   \n  \n    \n     GitHub\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     YouTube\n  \n\n\n\n\n\n\n\n De volta ao topo"
+  },
+  {
+    "objectID": "artigos/apps/gpt_clear_data.html",
+    "href": "artigos/apps/gpt_clear_data.html",
+    "title": "Transforme seus Dados com GPT: Dicas e Truques",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "portifolio/posts/3_s3_simple_compress.html",
+    "href": "portifolio/posts/3_s3_simple_compress.html",
+    "title": "Compactação Simples de arquivo da AWS S3",
+    "section": "",
+    "text": "Este projeto envolve o desenvolvimento de um pacote Python que criei para facilitar a compactação de arquivo do S3 em memória. O pacote foi projetado para ser intuitivo e eficiente.\nAbaixo, você encontrará os links para acessar o repositório no GitHub, onde está disponível o código-fonte completo, bem como a documentação oficial, que fornece instruções detalhadas sobre como instalar, configurar e utilizar o pacote. Além disso, incluímos o link para a página do pacote no PyPI, onde você pode facilmente baixar e instalar a versão mais recente do pacote usando o gerenciador de pacotes pip. Recomendamos que consulte esses recursos para obter uma compreensão completa de como o pacote funciona e como ele pode beneficiar seus projetos.\n\nGitHub\n\n\nDocumetação\n\n\nPyPI\n\n\nIframe da Documentação:\n\n\n\n\n De volta ao topo"
+  },
+  {
+    "objectID": "portifolio/index.html",
+    "href": "portifolio/index.html",
+    "title": "Portfólio",
+    "section": "",
+    "text": "Aqui, você encontrará exemplos que refletem minha experiência, habilidades e dedicação em cada projeto. Estou sempre em busca de novos desafios e oportunidades para expandir meu conhecimento e contribuir de forma significativa. Sinta-se à vontade para explorar e conhecer mais sobre o meu trabalho e trajetória profissional.\n\n\n\n\n\n\n   \n     \n     \n       Ordenar por\n       Padrão\n         \n          Data - Mais antigo\n        \n         \n          Data - O mais novo\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nPrevisão Salarial Brasileira\n\n\nForecast Brazilian Salary API Documentation\n\n\n\nAPI REST\n\n\nPrevisão\n\n\nFastAPI\n\n\nXGBoost\n\n\nPython\n\n\n\nA Forecast Brazilian Salary API é uma ferramenta poderosa que permite aos usuários prever salários com base em vários fatores e parâmetros. Esta documentação fornece um guia abrangente sobre como usar a API de forma eficaz.\n\n\n\n\n\n25 junho 2023\n\n\nBruno Mesquita\n\n\n1Min\n\n\n\n\n\n\n\n\n\n\n\n\nCompactação Simples de arquivo da AWS S3\n\n\nAWS S3 In-Memory File Compression (zip) Program\n\n\n\nS3\n\n\nAWS\n\n\nPython Package Index\n\n\nPython\n\n\nZIP\n\n\n\nÉ uma ferramenta que permite aos usuários compactar um ou mais arquivos armazenados no S3 em um único arquivo zip, todos na memória, sem a necessidade de fazer download para o disco rígido. Isso pode ser útil para reduzir o tamanho dos arquivos e economizar custos de armazenamento.\n\n\n\n\n\n03 maio 2023\n\n\nBruno Mesquita\n\n\n1Min\n\n\n\n\n\n\n\n\n\n\n\n\nAPI Distância do Transporte público\n\n\nAPI Distance of Public Transportation in São Paulo-BR\n\n\n\nAPI REST\n\n\nGeopandas\n\n\nFastAPI\n\n\nPython\n\n\n\nO principal objetivo dessa API REST é calcular a distância entre um ponto específico (latitude, longitude) e o transporte público mais próximo.\n\n\n\n\n\n01 maio 2023\n\n\nBruno Mesquita\n\n\n1Min\n\n\n\n\n\n\nSem itens correspondentes\n\n De volta ao topo"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Bruno Mesquita dos Santos",
+    "section": "",
+    "text": "Sou cientista de dados com formação em Banco de dados, Bi & BigData pela FIAP e, atualmente, estou cursando Estatística na Universidade Federal de Uberlândia. Tenho experiência abrangente em coleta, armazenamento, análise e visualização de dados. Minha trajetória inclui projetos práticos em extração e transformação de dados, desenvolvimento de modelos estatísticos e de aprendizado de máquina, além da criação de painéis de visualização interativos.\nAtuei mais de 3 anos na OLX Brasil, focado no segmento de imóveis, onde adquiri uma sólida experiência aplicando técnicas de análise de dados para impulsionar insights de negócios e estratégias de mercado.\n\nExperiência profissionalHard SkillsSoft SkillsIdiomas\n\n\n\nFreelancer - Atualmente\nAnalista de Dados - Jr - dezembro 2019 — maio 2022\nAtuando no mercado imobiliário ao utilizar tecnologias avançadas para analisar e processar dados espaciais. Minha proficiência em compreender e resolver problemas  matemáticos possibilita uma conexão eficiente com soluções tecnológicas, impulsionando meu desempenho no mercado.\nAnalista de teste/QA - Jr - abril 2019 — dezembro 2020\nMeu papel envolvia conduzir testes para prevenir erros ou falhas em  produtos/serviços e garantir que eles sejam entregues aos clientes com a  qualidade necessária. Gerar um plano de teste sólido, assegurar a  qualidade do processo e garantir uma boa escrita de teste no formato BDD.\n\n\n\nLinguagens\n\nPython, HTML, CSS, SQL, R, C, Markdown, Bash/Shell Scripting.\n\nPacotes\n\nPandas, NumPy, scikit-learn, Streamlit, Selenium, Playwright, FastAPI, GeoPy, GeoPandas, Folium, Matplotlib, Seaborn, Pydantic, SQLAlchemy, Plotly, dplyr, ggplot2, tidyverse, Django.\n\nModelos\n\nRegressão linear, Regressão Logística, XGBoost, Random forest, K-Nearest Neighbors (KNN), K-Means.\n\nTecnologias\n\nJupyter, AWS Cloud, API REST, MongoDB, Postgres, Docker, Kubernetes, Pyspark, GitHub, Linux, Apache Airflow, Web Scraping, ETL, MySQL, Microsoft Power BI, Parquet, GitHub Actions.\n\n\n\nComunicação, Resolução de Problemas, Trabalho em Equipe, Adaptabilidade, Empatia, Gestão do Tempo, Curiosidade, Proatividade, Colaboração.\n\n\nEnglish | intermediary\nPortuguês | Nativo\n\n\n\n\nEducaçãoCertificaçãoAtividades extracurricularesHobby\n\n\nAtualmente cursando Estatística na Universidade Federal de Uberlândia.\nBacharelado em Estatística | Universidade Federal de Uberlândia - 2021 - Atual\nTecnólogo em Banco de dados, Bi & BigData | FIAP - 2019 - 2020\nTécnico em desenvolvimento de sistemas | Fundação Bradesco - 2018 - 2019\nEnsino Médio | Fundação Bradesco - 2015 - 2017\n\n\nCTFL Foundation Level | BSTQB - Código da credencial 19-CTFL-09388-BR\n\n\n\nPET Estatística:\nO Programa de Educação Tutorial (PET) foi criado para apoiar atividades acadêmicas que integram ensino, pesquisa e extensão. O PET tem como objetivo promover a formação ampla e de qualidade dos alunos de graduação envolvidos direta ou indiretamente com o Programa, estimulando valores que reforcem a cidadania e a consciência social dos participantes e a melhoria dos Cursos de Graduação.\nVem Pra UFO:\nÉ um projeto realizado em todos os campi da Universidade Federal de Uberlândia (UFU) e tem como objetivo apresentar para a comunidade externa os cursos oferecidos pela instituição. Tive como objetivo interagir, explicar e incentivar alunos do ensino médio a cursarem Estatística.\nIniciação Científica\nA motivação para minha iniciação científica foi compreender os padrões de solo que influenciam a propagação da Paepalanthus chiquitensis nos campos rupestres da Serra de Tapira, em Minas Gerais. Utilizamos técnicas de geoestatística, especialmente a krigagem, para identificar como fatores como umidade e características do solo afetam a distribuição dessa espécie. Este estudo buscou entender a ecologia da planta e suas condições de ocorrência, contribuindo para a conservação e manejo dos campos rupestres.\n\n\n\nMuay thai, Correr, Jogos de Tabuleiro, Programar, Academia, DIY.\n\n\n\n\n\n De volta ao topo"
+  },
+  {
+    "objectID": "portifolio/posts/1_api_distance_public_transportation.html",
+    "href": "portifolio/posts/1_api_distance_public_transportation.html",
+    "title": "API Distância do Transporte público",
+    "section": "",
+    "text": "Esta documentação é proveniente do meu repositório no GitHub e, devido ao vínculo dinâmico, pode apresentar falhas ou dificuldades de carregamento. Para garantir que você tenha uma navegação melhor, recomendo que visite diretamente o projeto e a documentação oficial. Para isso, basta clicar no botão abaixo, que o levará ao repositório GitHub, onde você encontrará todas as instruções detalhadas, exemplos de uso e outros recursos úteis.\n\nGitHub\n\n\nIframe da Documentação:\n\n\n\n\n\n De volta ao topo"
+  },
+  {
+    "objectID": "portifolio/posts/2_forecast_salary.html",
+    "href": "portifolio/posts/2_forecast_salary.html",
+    "title": "Previsão Salarial Brasileira",
+    "section": "",
+    "text": "–\nEsta documentação é proveniente do meu repositório no GitHub e, devido ao vínculo dinâmico, pode apresentar falhas ou dificuldades de carregamento. Para garantir que você tenha uma navegação melhor, recomendo que visite diretamente o projeto e a documentação oficial. Para isso, basta clicar no botão abaixo, que o levará ao repositório GitHub, onde você encontrará todas as instruções detalhadas, exemplos de uso e outros recursos úteis.\n\nGitHub\n\n\nIframe da Documentação:\n\n\n\n\n\n De volta ao topo"
+  },
+  {
+    "objectID": "artigos/index.html",
+    "href": "artigos/index.html",
+    "title": "Artigos",
+    "section": "",
+    "text": "Aqui, você encontrará uma análise detalhada e reflexiva sobre os temas abordados. Ele reflete meu comprometimento com a pesquisa e a clareza na apresentação das ideias. Estou sempre buscando explorar novos aspectos e aprofundar o entendimento sobre o assunto. Sinta-se à vontade para ler e explorar as ideias e argumentos que desenvolvi, e espero que este trabalho enriqueça sua compreensão sobre o tópico.\n\n\n\n\n\n\n   \n     \n     \n       Ordenar por\n       Padrão\n         \n          Data - Mais antigo\n        \n         \n          Data - O mais novo\n        \n         \n          Autor\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nTransforme seus Dados com GPT: Dicas e Truques\n\n\n1Min\n\n\n\nGPT\n\n\nLimpeza de Dados\n\n\nIA\n\n\n\nEnfrentando dificuldades na limpeza e enriquecimento de dados? Descubra por que ainda não é viável confiar totalmente GPT.\n\n\n\nBruno Mesquita\n\n\nsábado, 13 julho 2024 | 2024-07-13\n\n\n\n\n\n\n\n\nSem itens correspondentes\n\n De volta ao topo"
+  }
+]

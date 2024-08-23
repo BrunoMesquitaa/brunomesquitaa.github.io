@@ -1,0 +1,16 @@
+[
+  {
+    "listing": "/portifolio/index.html",
+    "items": [
+      "/portifolio/posts/2_forecast_salary.html",
+      "/portifolio/posts/3_s3_simple_compress.html",
+      "/portifolio/posts/1_api_distance_public_transportation.html"
+    ]
+  },
+  {
+    "listing": "/artigos/index.html",
+    "items": [
+      "/artigos/apps/gpt_clear_data.html"
+    ]
+  }
+]
