@@ -21,9 +21,9 @@ page-layout: full
 ---
 
 
-**Sou cientista de dados com formação em Banco de dados, Bi & BigData pela FIAP e, atualmente, estou cursando Estatística na Universidade Federal de Uberlândia. Tenho experiência abrangente em coleta, armazenamento, análise e visualização de dados. Minha trajetória inclui projetos práticos em extração e transformação de dados, desenvolvimento de modelos estatísticos e de aprendizado de máquina, além da criação de painéis de visualização interativos.**
+**Tenho o desejo de atuar na área de Engenharia de dados, formação em Banco de dados, Bi & BigData pela FIAP e, atualmente, estou cursando Estatística na Universidade Federal de Uberlândia. Tenho experiência abrangente em coleta, armazenamento, análise e visualização de dados. Minha trajetória inclui projetos práticos em extração e transformação de dados, desenvolvimento de modelos estatísticos e de aprendizado de máquina, além da criação de painéis de visualização interativos.**
 
-**Atuei mais de 3 anos na OLX Brasil, focado no segmento de imóveis, onde adquiri uma sólida experiência aplicando técnicas de análise de dados para impulsionar insights de negócios e estratégias de mercado.**
+**Atuei mais de 2.5 anos na OLX Brasil, focado no segmento de imóveis, onde adquiri uma sólida experiência aplicando técnicas de análise de dados para impulsionar insights de negócios e estratégias de mercado.**
 
 
 :::{.panel-tabset}
@@ -36,7 +36,7 @@ page-layout: full
 
   Atuando no mercado imobiliário ao utilizar tecnologias avançadas para analisar e processar dados espaciais. Minha proficiência em compreender e resolver problemas  matemáticos possibilita uma conexão eficiente com soluções tecnológicas, impulsionando meu desempenho no mercado.
 
-- **Analista de teste/QA - Jr** - *abril 2019 — dezembro 2020*
+- **Analista de teste/QA - Jr** - *abril 2019 — dezembro 2019*
 
   Meu papel envolvia conduzir testes para prevenir erros ou falhas em  produtos/serviços e garantir que eles sejam entregues aos clientes com a  qualidade necessária. Gerar um plano de teste sólido, assegurar a  qualidade do processo e garantir uma boa escrita de teste no formato BDD.
 
@@ -104,5 +104,5 @@ CTFL Foundation Level | BSTQB - Código da credencial 19-CTFL-09388-BR
   A motivação para minha iniciação científica foi compreender os padrões de solo que influenciam a propagação da Paepalanthus chiquitensis nos campos rupestres da Serra de Tapira, em Minas Gerais. Utilizamos técnicas de geoestatística, especialmente a krigagem, para identificar como fatores como umidade e características do solo afetam a distribuição dessa espécie. Este estudo buscou entender a ecologia da planta e suas condições de ocorrência, contribuindo para a conservação e manejo dos campos rupestres.
 
 # Hobby
-Muay thai, Correr, Jogos de Tabuleiro, Programar, Academia, DIY.
+Muay thai, Correr, Jogos de Tabuleiro, Investimentos, Programar, Academia, DIY.
 :::
